@@ -24,6 +24,13 @@ Project Leader, Maintainer, Architecture Manager
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-Studio&repo=CSGO-Toolbox-Public&theme=tokyonight)](https://github.com/One-Studio/CSGO-Toolbox-Public)
 
+
+Project Starter, Maintainer
+
+> A toolbox for CS;GO, built with C++ & Qt.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Purple-CSGO&repo=CSGO-Toolbox-Qt&theme=tokyonight)](https://github.com/Purple-CSGO/CSGO-Toolbox-Qt)
+
 Official Member, Community Maintainer, Document, Tutorial
 
 > A movie making tool (aka. HLAE) for source engine games (mainly CS:GO), written in C.
@@ -47,3 +54,10 @@ Contributor
 > A system Tray package for Go language.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=getlantern&repo=systray&theme=tokyonight)](https://github.com/getlantern/systray)
+
+
+Project Starter, Maintainer
+
+> GitHub serverless API tool, written in Javascript, supported by Jsdelivr + cnpmjs + cloudflare workers.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-Studio&repo=better-github-api&theme=tokyonight)](https://github.com/One-Studio/better-github-api)
