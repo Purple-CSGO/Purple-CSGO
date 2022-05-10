@@ -13,7 +13,7 @@
 
 - Web: HTML, CSS, Javascript, Vue.js
 - Backend: Go, Python, C++
-- Other: GitHub Actions, Batch scripts, TailwindCSS, UI/UX Design
+- Other: CI/CD (GitHub Actions), Batch scripts, UI/UX Design
 
 
 ### Mainly contributed repositories:
@@ -26,11 +26,24 @@ Project Leader, Maintainer, Architecture Manager
 
 Official Member, Community Maintainer, Document, Tutorial
 
-> A movie making tool for source engine games (mainly CS:GO), written in C.
+> A movie making tool (aka. HLAE) for source engine games (mainly CS:GO), written in C.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=advancedfx&repo=advancedfx&theme=tokyonight)](https://github.com/advancedfx/advancedfx)
 
+Project Starter, Maintainer
 
+> A tool for properly install and update HLAE and FFmpeg, built with Vue.js + Wails + Go.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-Studio&repo=HLAE-Studio&theme=tokyonight)](https://github.com/One-Studio/HLAE-Studio)
+
+Project Starter, Maintainer
+
+> Written in CS:GO scripts very similar to squirrel.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Purple-CSGO&repo=CSGO-Config-Presets&theme=tokyonight)](https://github.com/Purple-CSGO/CSGO-Config-Presets)
 
+Contributor
+
+> A system Tray package for Go language.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=getlantern&repo=systray&theme=tokyonight)](https://github.com/getlantern/systray)
