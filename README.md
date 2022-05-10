@@ -51,10 +51,15 @@ Project Starter, Maintainer
 
 Contributor
 
-> A system Tray package for Go language.
+> A go library for enabling system tray.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=getlantern&repo=systray&theme=tokyonight)](https://github.com/getlantern/systray)
 
+Project Starter, Maintainer
+
+> A go library for parsing VDF(Valve Data Format) into format of json.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Purple-CSGO&repo=vdf2json-go&theme=tokyonight)](https://github.com/Purple-CSGO/vdf2json-go)
 
 Project Starter, Maintainer
 
